@@ -32,8 +32,9 @@ When the homepage is loaded, the user can view a list of various currencies that
 
 The application is constructed using React, Redux, and CSS, leveraging the Redux Thunk middleware to manage asynchronous actions and the Fetch API to access data from the NAPI. Moreover, the application is entirely responsive, adjusting to different screen sizes and devices.
 
+![screenshot](./src/assets/Screenshot%202023-05-30%20083813.png)
 
-![screenshot]()
+![screenshot](./src/assets/Screenshot%202023-05-30%20083853.png)
 
 [PROJECT DOCUMENTATION]()
 
@@ -87,9 +88,10 @@ Clone this repository to your desired folder:
 `git clone https://github.com/TaiwoEnoch/cryptocurrency-data-explorer.git`
 
 ### Usage
-To run the project execute the command below 
 
-`npm start` 
+To run the project execute the command below
+
+`npm start`
 
 ### Run tests
 
@@ -105,7 +107,8 @@ To run tests, run the following command:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Author
- <a name="authors"></a>
+
+<a name="authors"></a>
 
 👤 **Bilal Ahmed**
 
