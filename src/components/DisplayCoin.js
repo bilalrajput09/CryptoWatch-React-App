@@ -34,7 +34,7 @@ const DisplayCoin = (props) => {
           Price:
           {price.toFixed(2)}
         </p>
-        <p>
+        <p className={styles.marketcap}>
           Marketcap:
           {marketCap.toFixed(2)}
         </p>
