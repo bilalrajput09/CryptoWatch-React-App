@@ -42,7 +42,7 @@ The application is constructed using React, Redux, and CSS, leveraging the Redux
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- []
+- [https://cryptowatch.onrender.com/]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
