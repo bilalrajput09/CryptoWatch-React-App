@@ -142,4 +142,4 @@ If you like this project you can give it a ⭐️.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./license) licensed.
