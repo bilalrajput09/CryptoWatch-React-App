@@ -42,7 +42,7 @@ The application is constructed using React, Redux, and CSS, leveraging the Redux
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- []
+- [https://cryptowatch.onrender.com/]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,7 +85,7 @@ To get a local copy up and running follow these simple example steps.
 
 Clone this repository to your desired folder:
 `cd my-folder`
-`git clone https://github.com/TaiwoEnoch/cryptocurrency-data-explorer.git`
+`git clone https://github.com/bilalrajput09/CryptoWatch-React-App.git`
 
 ### Usage
 
@@ -122,6 +122,8 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
+https://github.com/bilalrajput09/CryptoWatch-React-App/issues
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ⭐️ Show your support <a name="support"></a>
@@ -140,4 +142,4 @@ If you like this project you can give it a ⭐️.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./license) licensed.
