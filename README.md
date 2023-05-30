@@ -36,7 +36,7 @@ The application is constructed using React, Redux, and CSS, leveraging the Redux
 
 ![screenshot](./src/assets/Screenshot%202023-05-30%20083853.png)
 
-[PROJECT DOCUMENTATION]()
+[PROJECT DOCUMENTATION VIDEO](https://www.loom.com/share/b03e4d448a344cc88845f73b97dcf423)
 
 <!-- LIVE DEMO -->
 
