@@ -1,0 +1,32 @@
+.coin_container {
+  padding: 0.5em;
+  background-color: rgb(78, 57, 33);
+  margin: 0.1em;
+  color: white;
+  width: 190px;
+  height: 190px;
+  border-radius: 10px;
+}
+
+.icon_container {
+  width: 50px;
+  margin-bottom: 10px;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.icon_header_main_container {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.icon_container img {
+  width: 100%;
+}
+
+.marketcap {
+  font-size: 0.8rem;
+}
