@@ -1,0 +1,28 @@
+.coin_container {
+  padding: 1em;
+  background-color: rgb(78, 57, 33);
+  margin: 1em;
+  color: white;
+  width: 250px;
+  height: 200px;
+  border-radius: 10px;
+}
+
+.icon_container {
+  width: 50px;
+  margin-bottom: 10px;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.icon_header_main_container {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.icon_container img {
+  width: 100%;
+}

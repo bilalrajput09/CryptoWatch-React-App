@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: cursive;
+}
+
+.header {
+  background-color: rgb(78, 57, 33);
+  padding: 1em;
+}
+
+.nav_list {
+  font-size: 1.5rem;
+  list-style: none;
+}
+
+.nav_list a {
+  display: inline-block;
+}
+
+.inActive {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  color: rgb(198, 216, 120);
+  text-decoration: underline;
+}
+
+.active {
+  text-decoration: underline;
+  color: white;
+}
+
+.nav_link_home_container {
+  display: flex;
+}
