@@ -26,7 +26,7 @@
 
 # CryptoWatch React App
 
-The crypto currency data explorer app is a powerful tool that allows users to delve deep into the world of digital currencies. With real-time updates and advanced analytical tools, this app provides a comprehensive view of the cryptocurrency market, allowing users to make informed decisions about their investments.
+The Crypto Data Explorer app is an advanced tool that empowers users to explore the realm of digital currencies. With up-to-the-minute updates and sophisticated analytical features, this app offers a holistic perspective on the cryptocurrency market, enabling users to make well-informed investment choices.
 
 When the homepage is loaded, the user can view a list of various currencies that they can filter based on the currency name. Upon selecting a particular currency, the user is redirected to a details page that retrieves comprehensive information from the API associated with the selected coin.
 
