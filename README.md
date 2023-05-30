@@ -85,7 +85,7 @@ To get a local copy up and running follow these simple example steps.
 
 Clone this repository to your desired folder:
 `cd my-folder`
-`git clone https://github.com/TaiwoEnoch/cryptocurrency-data-explorer.git`
+`git clone https://github.com/bilalrajput09/CryptoWatch-React-App.git`
 
 ### Usage
 
@@ -121,6 +121,8 @@ To run tests, run the following command:
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
+
+https://github.com/bilalrajput09/CryptoWatch-React-App/issues
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
